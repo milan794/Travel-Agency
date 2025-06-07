@@ -4,7 +4,6 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>"YAYA Travel Agency"</title>
     <meta name="description" content="Explore exciting packages for Pokhra.">
     </head>
     <body>
